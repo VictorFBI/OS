@@ -1,0 +1,1 @@
+CMakeLists.txt not found in \\wsl.localhost\Ubuntu\home\frolovbuk\hw3 Select CMakeLists.txt
