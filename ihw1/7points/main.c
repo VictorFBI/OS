@@ -38,10 +38,6 @@ int main(int argc, char *argv[]) {
     int fRead = open(argv[1], O_RDONLY);
     char buffer[5000];
     int readBytes = read(fRead, buffer, 5000);
-    if (readBytes == 0) {
-      buffer[0] = ' ';
-      ++readBytes;
-    }
     printf("'%s' was read from the file\n", buffer);
 
     int fdWrite = open("fifo1.fifo", O_WRONLY);

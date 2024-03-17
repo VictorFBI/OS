@@ -39,9 +39,9 @@ int main(int argc, char *argv[]) {
     char buffer[5000];
     int readBytes = read(fRead, buffer, 5000);
     if (readBytes == 0) {
-      buffer[0] = ' ';
-      ++readBytes;
-    }
+	buffer[0] = ' ';
+	++readBytes;
+    }	
     printf("'%s' was read from the file\n", buffer);
     write(fd[1], buffer, readBytes);
     close(fd[1]);
