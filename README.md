@@ -18,6 +18,8 @@ Repository for operating systems course at HSE SE 2023/2024
 ![image](https://github.com/VictorFBI/OS/assets/124510561/948fd3e0-3207-4191-b6f5-022da07c6924)
 # HW 8
 ![image](https://github.com/VictorFBI/OS/assets/124510561/e15a3241-1494-45bf-82d5-06cf6c1f708a)
+# HW 10
+![image](https://github.com/VictorFBI/OS/assets/124510561/7a3a1adb-c1ef-4279-82ac-1e8af5a3d7fb)
 ## IHW 1
 ![image](https://github.com/VictorFBI/OS/assets/124510561/a5a9a04e-85ec-47f3-bfac-a1c737e4b2a4)
 ![image](https://github.com/VictorFBI/OS/assets/124510561/1ab3e10b-af37-41c9-9ba5-d2a917442830)
