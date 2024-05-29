@@ -7,7 +7,6 @@
 
 #define MULTICAST_PORT 8888
 #define MULTICAST_IP "239.255.255.250"
-#define MESSAGE "Hello, this is a multicast message!"
 
 int main() {
     int sockfd;
